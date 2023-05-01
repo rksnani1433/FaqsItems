@@ -1,0 +1,18 @@
+/* Write your code here. */
+.app-container {
+  background-color: #f1f5f8;
+  margin: 20px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+  padding: 20px;
+}
+.main-container {
+  box-shadow: opx 4px 16px 0px #bfbfbf;
+  border-radius: 10px;
+  padding: 20px;
+  background-color: white;
+}
+.header {
+  color: #cb8805;
+  font-family: Roboto;
+  text-align: center;
+}
